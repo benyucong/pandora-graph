@@ -1,0 +1,3 @@
+[submodule "third/falkor"]
+	path = third/falkor
+	url = https://github.com/benyucong/falkor.git
